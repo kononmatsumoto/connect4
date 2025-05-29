@@ -1,5 +1,3 @@
-# connect4
-
 # Connect Four (Pygame Edition)
 
 This is a desktop version of the classic Connect Four game implemented in Python using the Pygame library. The game allows two players to take turns dropping pieces into a 7x6 grid. The first player to align four of their pieces in a row—horizontally, vertically, or diagonally—wins the game.
